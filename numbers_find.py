@@ -21,7 +21,7 @@ def find_rand():
         cnt += 1
         t = int(input(f"Попытка {cnt} Введи число в промежутке от  {start} до {end}:"))
 
-    return "Молодец успешно запулил в гит"
+    return "Молодец успешно запулил в гит git remote add origin https://github.com/Gjoba33/first_try.git"
 
 
 print(find_rand())
